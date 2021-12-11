@@ -8,3 +8,9 @@ go get -u github.com/go-sql-driver/mysql
 go get github.com/julienschmidt/httprouter
 go get github.com/go-playground/validator/v10
 ```
+membuat structur foler
+
+model
+    domain
+        category.go
+setiap tabel kita perlu representasikan kedalam sebuah struct
